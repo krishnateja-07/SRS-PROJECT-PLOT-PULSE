@@ -1,0 +1,11 @@
+{
+  "name": "Community Garden Planner",
+  "short_name": "Garden",
+  "description": "Plan beds, track plants and harvests, and get AI help — works offline.",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
